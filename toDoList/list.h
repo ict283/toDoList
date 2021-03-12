@@ -1,4 +1,4 @@
-// For review purposes only! Does not represent the actual solution!
+// For review purposes only! Does not represent the actual solution!!
 
 #ifndef LIST_H
 #define LIST_H
