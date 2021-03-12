@@ -1,0 +1,1 @@
+#Monday,Walk Dog,Dental Appointment,Buy Groceries,#Tuesday,Walk Dog,Important Meeting,Cook,Dinner,#Wednesday,Walk Dog,Buy Flowers,Celebrate Anniversary,#Thursday,Walk Dog,Gym Day,Meet Friends,#Friday,Walk Dog,Play With Kids,Watch TV,#Saturday,Walk Dog,Read Book,Play Ping Pong,#Sunday,Walk Dog,Ride Bike,Drink Margarita,
