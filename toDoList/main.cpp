@@ -1,15 +1,12 @@
-//
-//  main.cpp
-//  toDoList
-//
-//  Created by Glenn Lum on 12/3/21.
-//  Copyright © 2021 Glenn Lum. All rights reserved.
-//
+// For review purposes only! Does not represent the actual solution!
 
 #include <iostream>
+#include "toDoList.h"
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    return 0;
+int main(void) {
+
+        ToDoList test;
+        test.run();
+
+        return 0;
 }
