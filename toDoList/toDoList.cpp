@@ -63,6 +63,10 @@ void ToDoList::store(string fileStreamData)
                 }
         }
 
+        if(stringStream.eof())
+        {
+                taskDatabase.insert(*taskList); //store last vector
+        }
 }
 
 void ToDoList::display()
