@@ -44,7 +44,7 @@ void display();
 private:
 
 Linkedlist<vector<Task> > taskDatabase; //Linked list of vectors
-
+    
 };
 
 ostream& operator << (ostream &os, const vector<Task> taskList);
