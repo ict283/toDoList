@@ -5,8 +5,8 @@
 
 int main(void) {
 
-        ToDoList test;
-        test.run();
+        ToDoList app;
+        app.run();
 
         return 0;
 }
